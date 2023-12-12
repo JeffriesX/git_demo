@@ -6,3 +6,5 @@ github在线操作1
 ssh免密推送push测试
 vscode操作git
 vscode操作git拉取
+vscode操作git完整测试
+
